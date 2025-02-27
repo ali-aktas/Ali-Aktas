@@ -28,7 +28,7 @@ Every day, I dedicate 6-7 hours to enhancing my skills in Android development. I
 
 - Native: Turkish
 - Fluent: English
-- Intermediate: Polish
+- Basic: Polish
 - Learning: Italian (daily practice)
 
 # 📚 Personal Interests
