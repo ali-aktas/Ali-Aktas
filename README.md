@@ -1,45 +1,121 @@
-# 💻 About Me
+# 👋 Hi, I'm Ali Aktaş
 
-Hi, I'm Ali Aktaş, a self-taught Kotlin Android Developer. I started from scratch and have developed several applications. Through sheer determination, I've taught myself Kotlin and Android development using YouTube tutorials and Kotlin books. Just like how I taught myself mathematics, English, guitar playing, and video editing, I believe in the power of the internet and my ability to learn anything I set my mind to.
+Android Developer building **production-ready mobile apps end-to-end** — from idea and architecture to Play Store release.
 
-# 🎯 Goals
+I specialize in creating real-world Android applications with **clean architecture, scalable data models, and monetization-ready setups**.  
+All projects below are **live on the Play Store** and built with **public, real production code**.
 
-My immediate goal is to secure exciting freelance opportunities on platforms like Upwork. In the long term, I aim to work on projects that benefit society and contribute to a better future.
+---
 
-# 🛠️ Skills
+## 🧠 What I Do
 
-I am proficient in Android development, including Firebase, Coroutines, Room, Work Manager, and more. Additionally, I have experience in ASO (App Store Optimization), and using RevenueCat for subscription-based applications. I also design UI/UX using Figma.
+- Build Android apps from **scratch to production**
+- Design scalable **Firebase-backed architectures**
+- Implement **subscriptions & monetization** (RevenueCat)
+- Own the full product lifecycle: **idea → UI/UX → code → release**
+- Focus on **performance, clarity, and long-term maintainability**
 
-# 📱 Projects
+---
 
-**Project Alpha**
-- Successfully developed and published on the Play Store.
-- Utilized Firebase (database and Google Auth), RevenueCat, animations, and more.
+## 🚀 Featured Projects
 
-**MovieHive**
-- Built as a portfolio project to practice various technologies.
-- Demonstrates expertise in MVVM architecture, Dependency Injection, and API integration.
+### 🌍 Roamly — City Discovery & Rating Platform  
+**Founder & Android Developer**
 
-# 📈 Dedication
+📱 [Play Store](https://play.google.com/store/apps/details?id=com.aliaktas.urbanscore)  
+💻 [GitHub](https://github.com/ali-aktas/UrbanScore)
 
-Every day, I dedicate 6-7 hours to enhancing my skills in Android development. I focus on MVVM architecture and Firebase while preparing for a transition from XML to Jetpack Compose. My next goal is to create visually appealing applications with smooth animations and AI integrations.
+**Problem:**  
+Travelers lack authentic, structured, user-driven insights when comparing cities.
 
-# 🌍 Languages
+**Solution:**  
+Roamly enables users to discover and rate **800+ cities** across meaningful categories, producing transparent city rankings based on real user data.
 
-- Native: Turkish
-- Fluent: English
-- Basic: Polish
-- Learning: Italian (daily practice)
+**Technical Highlights:**
+- End-to-end ownership with **MVVM + Clean Architecture**
+- Firebase (Auth, Firestore, Storage) with scalable data modeling
+- City rating system across **7 meaningful categories**
+- Shareable **Top City lists** via Instagram Stories
+- Lightweight & optimized build (~13MB)
+- Architecture designed for **future web integration**
+- Built with Hilt, Coroutines, SOLID principles
 
-# 📚 Personal Interests
+---
 
-I'm deeply interested in Stoic philosophy and practice mindfulness, journaling daily on living virtuously and with awareness. I also run a YouTube channel with 3,000 subscribers, sharing travel videos and more.
+### 📘 HocaLingo — AI-Powered Language Learning App  
+**Android Developer & Product Designer**
 
-# 📞 Contact
+📱 [Play Store](https://play.google.com/store/apps/details?id=com.hocalingo.app)  
+💻 [GitHub](https://github.com/ali-aktas/HocaLingo)
 
-- [Upwork Profile](https://www.upwork.com/freelancers/~019c0a910eb72ed492?mp_source=share)
-- [Medium Blog](https://medium.com/@auralian)
-- Email: aliaktasofficial@gmail.com
+**Problem:**  
+Most language apps overwhelm users instead of helping them stay focused and consistent.
 
-Feel free to connect with me for collaborations or project discussions!
+**Solution:**  
+HocaLingo delivers a **structured, distraction-free learning flow** powered by AI and a custom repetition system.
 
+**Technical Highlights:**
+- Built **100% with Jetpack Compose**
+- Gemini AI generates texts, dialogues, and stories using active vocabulary
+- Custom **spaced repetition algorithm**
+- Swipe-based learning flow to skip known words
+- Structured **6-level system (1600+ words)**
+- Firebase-backed flexible content architecture
+- RevenueCat-powered subscriptions
+- Designed entirely in **Figma**, then implemented pixel-perfectly
+
+---
+
+### 🧘 Project Alpha — Self-Improvement & Mindfulness App  
+**Supporting Production Project**
+
+📱 [Play Store](https://play.google.com/store/apps/details?id=com.aliaktas.projectalpha)
+
+A self-improvement app focused on communication skills, ego management, and stress reduction.
+
+**Key Points:**
+- Psychology-based articles powered by Firebase
+- Interactive meditation & stress-control sessions with animations and sound
+- Firebase Realtime Database & Google Authentication
+- Monthly & yearly subscriptions via RevenueCat
+- Designed in Figma and built with Kotlin + MVVM
+
+---
+
+## 🛠 Tech Stack
+
+- **Kotlin**, Jetpack Compose, XML
+- MVVM, Clean Architecture, SOLID
+- Firebase (Auth, Firestore, Storage, Realtime DB)
+- Hilt, Coroutines, StateFlow
+- RevenueCat (Subscriptions)
+- Figma (UI/UX Design)
+- Play Store publishing & ASO awareness
+
+---
+
+## 💼 Work Style
+
+- Strong ownership mindset — I treat products as my own
+- Clear communication & fast responses
+- Comfortable working independently or with remote teams
+- Focused on long-term maintainability, not quick hacks
+
+---
+
+## 🌍 Languages
+
+- Turkish (Native)
+- English (Fluent)
+- Polish (Basic)
+- Italian (Learning)
+
+---
+
+## 📬 Get in Touch
+
+- 💼 **Upwork:** https://www.upwork.com/freelancers/~019c0a910eb72ed492
+- ✉️ **Email:** aliaktasofficial@gmail.com
+- ✍️ **Medium:** https://medium.com/@auralian
+
+If you're looking for an Android developer who can **own the entire app lifecycle**, feel free to reach out.
