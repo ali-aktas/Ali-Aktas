@@ -1,121 +1,146 @@
 # 👋 Hi, I'm Ali Aktaş
 
-Android Developer building **production-ready mobile apps end-to-end** — from idea and architecture to Play Store release.
+Mobile Developer building **production-ready Android & iOS apps end-to-end** — from idea and architecture to App Store & Play Store release.
 
-I specialize in creating real-world Android applications with **clean architecture, scalable data models, and monetization-ready setups**.  
-All projects below are **live on the Play Store** and built with **public, real production code**.
+I specialize in creating real-world mobile applications with **clean architecture, scalable data models, and monetization-ready setups** across both Android and iOS platforms.
+All projects below are **live in production** and built with **public, real production-level code**.
 
 ---
 
 ## 🧠 What I Do
 
-- Build Android apps from **scratch to production**
-- Design scalable **Firebase-backed architectures**
-- Implement **subscriptions & monetization** (RevenueCat)
-- Own the full product lifecycle: **idea → UI/UX → code → release**
-- Focus on **performance, clarity, and long-term maintainability**
+* Build Android & iOS apps from **scratch to production**
+* Design scalable **Firebase-backed cross-platform architectures**
+* Implement **subscriptions & monetization** (RevenueCat)
+* Own the full product lifecycle: **idea → UI/UX → architecture → code → release**
+* Focus on **performance, clarity, and long-term maintainability**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌍 Roamly — City Discovery & Rating Platform  
-**Founder & Android Developer**
+### 🌍 Roamly — City Discovery & Rating Platform
 
-📱 [Play Store](https://play.google.com/store/apps/details?id=com.aliaktas.urbanscore)  
-💻 [GitHub](https://github.com/ali-aktas/UrbanScore)
+**Founder | Android & iOS Developer**
 
-**Problem:**  
+📱 Android: [https://play.google.com/store/apps/details?id=com.aliaktas.urbanscore](https://play.google.com/store/apps/details?id=com.aliaktas.urbanscore)
+🍎 iOS: (Coming / Private Build)
+💻 GitHub: [https://github.com/ali-aktas/UrbanScore](https://github.com/ali-aktas/UrbanScore)
+
+**Problem:**
 Travelers lack authentic, structured, user-driven insights when comparing cities.
 
-**Solution:**  
+**Solution:**
 Roamly enables users to discover and rate **800+ cities** across meaningful categories, producing transparent city rankings based on real user data.
 
 **Technical Highlights:**
-- End-to-end ownership with **MVVM + Clean Architecture**
-- Firebase (Auth, Firestore, Storage) with scalable data modeling
-- City rating system across **7 meaningful categories**
-- Shareable **Top City lists** via Instagram Stories
-- Lightweight & optimized build (~13MB)
-- Architecture designed for **future web integration**
-- Built with Hilt, Coroutines, SOLID principles
+
+* End-to-end ownership with **MVVM + Clean Architecture**
+* Kotlin (Android) & Swift (iOS)
+* Firebase (Auth, Firestore, Storage) with scalable data modeling
+* City rating system across **7 meaningful categories**
+* Shareable **Top City lists**
+* Lightweight & optimized builds
+* Architecture designed for **future web integration**
+* Hilt, Coroutines, StateFlow (Android)
+* SwiftUI-based modular structure (iOS)
 
 ---
 
-### 📘 HocaLingo — AI-Powered Language Learning App  
-**Android Developer & Product Designer**
+### 📘 HocaLingo — AI-Powered Language Learning App
 
-📱 [Play Store](https://play.google.com/store/apps/details?id=com.hocalingo.app)  
-💻 [GitHub](https://github.com/ali-aktas/HocaLingo)
+**Android & iOS Developer | Product Designer**
 
-**Problem:**  
+📱 Android: [https://play.google.com/store/apps/details?id=com.hocalingo.app](https://play.google.com/store/apps/details?id=com.hocalingo.app)
+🍎 iOS: (In Development)
+💻 GitHub: [https://github.com/ali-aktas/HocaLingo](https://github.com/ali-aktas/HocaLingo)
+
+**Problem:**
 Most language apps overwhelm users instead of helping them stay focused and consistent.
 
-**Solution:**  
+**Solution:**
 HocaLingo delivers a **structured, distraction-free learning flow** powered by AI and a custom repetition system.
 
 **Technical Highlights:**
-- Built **100% with Jetpack Compose**
-- Gemini AI generates texts, dialogues, and stories using active vocabulary
-- Custom **spaced repetition algorithm**
-- Swipe-based learning flow to skip known words
-- Structured **6-level system (1600+ words)**
-- Firebase-backed flexible content architecture
-- RevenueCat-powered subscriptions
-- Designed entirely in **Figma**, then implemented pixel-perfectly
+
+* Built with **Jetpack Compose (Android)**
+* Built with **SwiftUI (iOS)**
+* Gemini AI integration for generating texts, dialogues, and stories
+* Custom **spaced repetition algorithm**
+* Swipe-based learning flow to skip known words
+* Structured **6-level system (1600+ words)**
+* Firebase-backed flexible content architecture
+* RevenueCat-powered subscriptions
+* Designed in **Figma**, implemented pixel-perfectly
 
 ---
 
-### 🧘 Project Alpha — Self-Improvement & Mindfulness App  
-**Supporting Production Project**
+### 🧘 Project Alpha — Self-Improvement & Mindfulness App
 
-📱 [Play Store](https://play.google.com/store/apps/details?id=com.aliaktas.projectalpha)
+**Production Project**
+
+📱 Android: [https://play.google.com/store/apps/details?id=com.aliaktas.projectalpha](https://play.google.com/store/apps/details?id=com.aliaktas.projectalpha)
 
 A self-improvement app focused on communication skills, ego management, and stress reduction.
 
 **Key Points:**
-- Psychology-based articles powered by Firebase
-- Interactive meditation & stress-control sessions with animations and sound
-- Firebase Realtime Database & Google Authentication
-- Monthly & yearly subscriptions via RevenueCat
-- Designed in Figma and built with Kotlin + MVVM
+
+* Psychology-based content powered by Firebase
+* Interactive meditation & stress-control sessions with animations and sound
+* Firebase Realtime Database & Google Authentication
+* Monthly & yearly subscriptions via RevenueCat
+* Built with Kotlin (Android) & SwiftUI foundations (iOS expansion-ready)
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Kotlin**, Jetpack Compose, XML
-- MVVM, Clean Architecture, SOLID
-- Firebase (Auth, Firestore, Storage, Realtime DB)
-- Hilt, Coroutines, StateFlow
-- RevenueCat (Subscriptions)
-- Figma (UI/UX Design)
-- Play Store publishing & ASO awareness
+### Android
+
+* **Kotlin**
+* Jetpack Compose & XML
+* MVVM, Clean Architecture, SOLID
+* Hilt, Coroutines, StateFlow
+
+### iOS
+
+* **Swift**
+* SwiftUI
+* MVVM Architecture
+* Combine & async/await
+
+### Backend & Tools
+
+* Firebase (Auth, Firestore, Storage, Realtime DB)
+* RevenueCat (Subscriptions)
+* Figma (UI/UX Design)
+* Play Store & App Store publishing
 
 ---
 
 ## 💼 Work Style
 
-- Strong ownership mindset — I treat products as my own
-- Clear communication & fast responses
-- Comfortable working independently or with remote teams
-- Focused on long-term maintainability, not quick hacks
+* Strong ownership mindset — I treat products as my own
+* Clear communication & fast responses
+* Comfortable working independently or with remote teams
+* Focused on long-term maintainability, not quick hacks
+* Platform-aware thinking (Android & iOS parity planning)
 
 ---
 
 ## 🌍 Languages
 
-- Turkish (Native)
-- English (Fluent)
-- Polish (Basic)
-- Italian (Learning)
+* Turkish (Native)
+* English (Fluent)
+* Polish (Basic)
+* Italian (Learning)
 
 ---
 
 ## 📬 Get in Touch
 
-- 💼 **Upwork:** https://www.upwork.com/freelancers/~019c0a910eb72ed492
-- ✉️ **Email:** aliaktasofficial@gmail.com
-- ✍️ **Medium:** https://medium.com/@auralian
+* 💼 Upwork: [https://www.upwork.com/freelancers/~019c0a910eb72ed492](https://www.upwork.com/freelancers/~019c0a910eb72ed492)
+* ✉️ Email: [aliaktasofficial@gmail.com](mailto:aliaktasofficial@gmail.com)
+* ✍️ Medium: [https://medium.com/@auralian](https://medium.com/@auralian)
 
-If you're looking for an Android developer who can **own the entire app lifecycle**, feel free to reach out.
+If you're looking for a mobile developer who can **own the entire app lifecycle across Android & iOS**, feel free to reach out.
